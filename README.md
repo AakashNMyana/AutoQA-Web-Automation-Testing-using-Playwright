@@ -21,3 +21,5 @@ Runs automatically on push
 
 ## Highlights
 Styled HTML reports with clean layout, colors, and readable format.
+
+<img width="1915" height="971" alt="image" src="https://github.com/user-attachments/assets/b9e6a5fd-6eb5-4f32-8af9-cdda9f032443" />
