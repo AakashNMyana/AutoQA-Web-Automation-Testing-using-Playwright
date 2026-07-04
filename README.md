@@ -1,2 +1,23 @@
-# AutoQA-Web-Automation-Testing-using-Playwright
-Developed automated UI test scripts using Playwright (Python) for login, form validation, and navigation workflows. Implemented assertions, structured reporting, and reusable test scripts to improve test coverage and reduce repetitive manual testing.
+# AutoQA - Playwright Automation Framework
+
+## Features
+- Playwright + Pytest
+- Page Object Model
+- CI/CD (GitHub Actions)
+- Multi-flow testing (Login, Sorting, Cart, Logout)
+- Business logic validation (sorting + cart pricing)
+- API + UI validation
+- Parallel execution + retry
+- Screenshot + logging
+- Professional HTML report styling
+
+## Run Locally
+pip install -r requirements.txt
+playwright install
+pytest
+
+## CI/CD
+Runs automatically on push
+
+## Highlights
+Styled HTML reports with clean layout, colors, and readable format.
